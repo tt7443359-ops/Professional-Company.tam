@@ -126,11 +126,10 @@ table,th,td {
     color: white;
 }
 .table-left p,h6{
-    font-size: 12px;
     margin-left: 20px;
 }
 h6{
-    color:#C0C0C0;
+    color:#1f5a5a;
     font-weight: 700
 }
 h5{
@@ -141,7 +140,7 @@ h5{
     font-size: 17px
 }
 th {
-    font-size: 15px;
+    font-size: 25px;
     color: #1f5a5a;
     text-align: center;
     height: 70px;
@@ -154,4 +153,17 @@ th {
 
 .col-10 {
     text-align: center;
+}
+.review-photo {
+    height: 60px;
+}
+.gay{
+    font-family:'Edu SA Beginner', sans-serif;
+}
+
+.right-align {
+    text-align: right;
+    display: block;
+    margin-left: auto; 
+    margin-right: 0;
 }
